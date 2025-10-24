@@ -25,6 +25,9 @@ Streamline your structural modeling workflow by automatically detecting member t
 
 ---
 
+
+
+
 ## ✨ What Makes This Tool Special
 
 This **VBA macro** for **STAAD.Pro** intelligently reads member and node data, classifies members into beams and columns based on coordinate change patterns, and applies suitable offsets considering member support conditions and section details.  
