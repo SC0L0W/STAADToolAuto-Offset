@@ -13,7 +13,7 @@
 ### 📊 Project Stats
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=SC0L0W&label=Repository%20Views&color=0e75b6&style=flat)  
-![GitHub Stars](https://img.shields.io/github/stars/SC0L0W/RCBeamDesigner?style=flat&color=yellow)  
+![GitHub Stars](https://img.shields.io/github/stars/SC0L0W/STAADToolAuto-Offset?style=flat&color=yellow)  
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
